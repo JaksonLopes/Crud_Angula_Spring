@@ -3,6 +3,7 @@
 # compiled output
 /dist
 /tmp
+package.json
 
 # dependencies
 /node_modules
