@@ -13,7 +13,7 @@ import { MatButtonModule } from '@angular/material/button';
     MatToolbarModule,
     MatProgressSpinnerModule,
     MatDialogModule,
-    MatButtonModule,
+    MatButtonModule
   ],
 })
 export class AppImportMaterialModule {}
