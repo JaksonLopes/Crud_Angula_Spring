@@ -7,7 +7,7 @@ import * as operators from 'rxjs/operators';
 })
 export class CursosService {
 //injesão de dependencia http
-private readonly APi ='/assets/cursos.json';
+private readonly APi ='api/curso';
 
   constructor( private http: HttpClient) { }
 
